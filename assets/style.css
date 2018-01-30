@@ -1,0 +1,113 @@
+head {
+    margin: auto;
+    width: 100%
+}
+.top {
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+    float: middle;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    height: 90px;
+    border-bottom: 2px solid #cccccc;
+    
+}
+.name {
+    margin-left: 14%;
+    margin-right: 400px;
+    padding-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: white;
+    height: 65px;
+    float: left;
+    text-align: center;
+    width: 400px;
+    font-size: 180%;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    display: table-cell;
+}
+div {
+    width: 30%;
+}
+
+a {
+    padding: 8px;
+}
+.topnav {
+    top: 0%;
+}
+.topnav {
+    background-color: #fff;
+    overflow: hidden;
+    margin-right: 0%;
+    margin-left: 50%;
+}
+
+.topnav a {
+    float: left;
+    color: #a5a09c;
+    text-align: center;
+    padding: 34px 16px;
+    text-decoration: none;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.body {
+    background-image: url("https://pbs.twimg.com/media/DUAZToeVwAAnJpe.jpg");
+}
+
+.row {
+    padding-top: 20px;
+    width: 100%;
+    float: middle;
+}
+.col-sm-1 {
+    padding: 15px;
+    background-color: #fff;
+    width: 110.00%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    border: 2px #777777;
+    margin-left: 47%;
+    float: left;
+    border: #dddddd solid 2px;
+}
+.col-sm-2 {
+    padding: 15px;
+    background-color: #fff;
+    width: 60.00%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    margin-right: 120px;
+    margin-left: 40px;
+    border: 2px #7c8084;
+    float: left;
+    border: #dddddd solid 2px;
+}
+
+hr {
+    border-top: 2px solid #ddd;
+}
+
+footer {
+    margin-top: 650px;
+    width: 100%;
+    height: 120px;
+    background-color: #666;
+    color: #ddd;
+    border-top: 7px solid #4aaaa5;
+}
+
+img {
+padding-right: 15px;
+padding-bottom: 15px;
+}
